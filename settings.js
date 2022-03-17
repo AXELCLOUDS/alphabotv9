@@ -30,7 +30,7 @@ global.ownernomerr = "+62882007804496" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62882007804496","6282134076453","6283842942635"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6282134076453","6282134076453","62882007804496"] //ganti agar fitur owner bisa di gunakan
 global.packname = '© Bot Xtreshe-Mdོ' //sticker wm ubah
 global.author = 'Di Buat Oleh Dexter' //sticker wm ganti nama kalian
 global.sessionName = 'session'
@@ -42,11 +42,11 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, Oke Desu~',
+    sukses: '🤗Done, noh Tod~',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
-    group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
+    owner: 'lu sape kont FITUR INI KUSUS OWNER TOD!',
+    group: 'WAJIB DI GRUP TOD!',
     private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
 	bot: 'Fitur Khusus Pengguna Nomor Bot',
     errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
