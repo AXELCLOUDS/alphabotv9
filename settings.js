@@ -18,21 +18,21 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "Bot Xtreshe-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ Dexterོ ×፝֟͜×" //nama kalian
+global.botname = "Axel Bot-Mdོ" //namabot kalian
+global.ownername= "ᴹᴿ᭄ Dhany ×፝֟͜×" //nama kalian
 global.myweb ="https://api-putraxd.herokuapp.com/" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
 global.github = "https://github.com/Xtreshebot" //bebas
 global.email = "Botxtreshe@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "62882007804496" // nomor wa kalian
-global.ownernomerr = "+62882007804496" //nmr wa kalian
+global.ownernomer = "6285733374626" // nomor wa kalian
+global.ownernomerr = "+6285733374626" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62882007804496","6283825289775","62882007804496"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Bot Xtreshe-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh Dexter' //sticker wm ganti nama kalian
+global.owner = ["62882007804496","6283825289775","6285733374626"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© Axel Bot-Mdོ' //sticker wm ubah
+global.author = 'Di Buat Oleh Dhany' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -42,10 +42,10 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, noh Tod~',
+    sukses: '🤗Done, Yah Tod~',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-    owner: 'lu sape kont FITUR INI KUSUS OWNER TOD!',
+    owner: 'MAAP BG FITUR INI KUSUS OWNER:V!',
     group: 'WAJIB DI GRUP TOD!',
     private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
 	bot: 'Fitur Khusus Pengguna Nomor Bot',
